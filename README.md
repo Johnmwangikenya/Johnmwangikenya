@@ -5,7 +5,7 @@
 
 ## Skills
 
-- We are a creative media company specializing in professional
+- With  a creative media company specializing in professional
 
 1: photography
 
