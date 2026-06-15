@@ -37,7 +37,7 @@ heading level 3
 
 | Tool   | Purpose                        | Link                          |
 | ------ | ------------------------------ | ------------------------------|
-| Git    | Version control                | [GitHub](https://git-scm.com) |
+| Git    | Version control                | [Git](https://git-scm.com) |
 | GitHub | Code hosting and collaboration | [GitHub](https://github.com)  |
  
  
