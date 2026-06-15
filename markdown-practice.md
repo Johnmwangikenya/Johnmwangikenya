@@ -31,5 +31,13 @@ heading level 3
 
 - confirm change
 - click commit changes
-- write commit message 
+- write commit message
+
+   - [x] Exercise 5 — Table
+
+| Tool   | Purpose                        | Link                          |
+| ------ | ------------------------------ | ------------------------------|
+| Git    | Version control                | [GitHub](https://git-scm.com) |
+| GitHub | Code hosting and collaboration | [GitHub](https://github.com)  |
+ 
  
