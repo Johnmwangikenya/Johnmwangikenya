@@ -61,3 +61,9 @@ heading level 3
 </body>
 </html>
 ```
+
+- [x] Exercise 8 — Blockquote
+
+> Small progress every day leads to big results over time.
+
+
