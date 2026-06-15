@@ -37,7 +37,14 @@ heading level 3
 
 | Tool   | Purpose                        | Link                          |
 | ------ | ------------------------------ | ------------------------------|
-| Git    | Version control                | [Git](https://git-scm.com) |
+| Git    | Version control                | [Git](https://git-scm.com)    |
 | GitHub | Code hosting and collaboration | [GitHub](https://github.com)  |
- 
- 
+
+
+ - [x] Exercise 6 — Task list
+
+* [ ] Create a GitHub account
+* [ ] Install Git
+* [ ] Learn branching and pull requests
+* [ ] Build a personal portfolio website
+
