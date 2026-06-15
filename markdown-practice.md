@@ -43,8 +43,8 @@ heading level 3
 
  - [x] Exercise 6 — Task list
 
-* [ ] Create a GitHub account
-* [ ] Install Git
-* [ ] Learn branching and pull requests
-* [ ] Build a personal portfolio website
+- [x] Create a GitHub account
+- [x] Install Git
+- [x] Learn branching and pull requests
+- [x] Build a personal portfolio website
 
