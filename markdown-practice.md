@@ -8,6 +8,7 @@ heading level 3
 - [x] Exercise 2 — Text formatting
 
  **Write a sentence that includes a bold word**  
+ 
  *an italic word* 
 
  `and an inline code snippet`
