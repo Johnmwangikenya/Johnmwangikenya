@@ -48,3 +48,16 @@ heading level 3
 - [x] Learn branching and pull requests
 - [x] Build a personal portfolio website
 
+- [x] Exercise 7 — Code block
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+```
