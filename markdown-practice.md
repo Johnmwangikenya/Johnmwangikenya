@@ -15,6 +15,6 @@ heading level 3
 
  - [x] Exercise 3 -Links:
 
- [GitHub profile] (https://github.com/Johnmwangikenya)
+ [GitHub profile](https://github.com/Johnmwangikenya)
  
- [The website I find useful] (https://www.markdownguide.org/basic-syntax)
+ [The website I find useful](https://www.markdownguide.org/basic-syntax)
