@@ -28,6 +28,10 @@
 ## How to Reach Me
 
  [Email](reoamedia@gmail.com)
+ 
+ [WhatsApp](https://wa.me/+254726146968)
+
+ [Facebook page](https://www.facebook.com/DirectorJohnMwangi)
 
 
 
