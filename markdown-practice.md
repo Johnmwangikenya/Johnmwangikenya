@@ -21,13 +21,13 @@ heading level 3
 
  - [x] Exercise 4 Lists:
 
-** unordered list of 3 things you want to learn**
+**unordered list of 3 things you want to learn**
 
 1. database
 2. Node.js
 3. CSS
 
-** ordered list of the steps to make a commit in Git **
+**ordered list of the steps to make a commit in Git**
 
 - confirm change
 - click commit changes
