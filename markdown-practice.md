@@ -12,3 +12,9 @@ heading level 3
  *an italic word* 
 
  `and an inline code snippet`
+
+ - [x] Exercise 3 -Links:
+
+ [GitHub profile] (https://github.com/Johnmwangikenya)
+ 
+ [The website I find useful] (https://www.markdownguide.org/basic-syntax)
