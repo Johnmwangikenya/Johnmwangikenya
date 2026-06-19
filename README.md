@@ -7,7 +7,7 @@
 
 - With  a creative media company specializing in professional
 
-1. *photography*
+1. *creative photography*
 
 2. *cinematic videography*
 
